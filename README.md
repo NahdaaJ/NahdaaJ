@@ -20,5 +20,6 @@
     <li>🌸 I have experience with relational databases such as MySQL.</li>
   </ul>
 <br />
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahdaaJ&layout=compact&bg_color=FFC8DD&title_color=000000&text_colour=000000&card_width=900" alt="Most used programming languages."/>
+-->
