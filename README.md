@@ -1,6 +1,9 @@
 <div align=center>
-  <h1>Hello! I'm Nahdaa 👋</h1>
-  <p>I'm a junior software engineer.</p>
+  <h1>Hey! I'm Nahdaa 👋</h1>
+  <p>I'm a junior software engineer with a love for gaming, art and programming! My most comfortable languages are C#, HTML, CSS and JavaScript, but I'm currently learning Python! I hope to become an AI engineer in the future!</p>
+  
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,mysql,py,angular,ts,js,html,css,aws,azure)](https://skillicons.dev)
+  
   <a href="https://www.linkedin.com/in/nahdaa-jawed/">
     <img src="https://img.shields.io/badge/LinkedIn-FFB3C6?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn     Badge"/>
   </a>
