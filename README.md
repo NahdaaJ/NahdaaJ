@@ -1,6 +1,6 @@
 <div align=center>
   <h1>Hey! I'm Nahdaa 👋</h1>
-  <p>I'm a junior software engineer with a love for gaming, art and programming! My most comfortable languages are C#, HTML, CSS and JavaScript, but I'm currently learning Python! I hope to become an AI engineer in the future!</p>
+  <p>I'm a junior software engineer with a love for gaming, art and programming! My most comfortable languages are C#, HTML, CSS and JavaScript, but I'm currently trying to expand my skill set! </p>
   
   [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,mysql,py,angular,ts,js,html,css,aws,azure)](https://skillicons.dev)
   
