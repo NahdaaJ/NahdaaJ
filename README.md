@@ -4,7 +4,9 @@
   
   <!-- [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,mysql,py,angular,ts,js,html,css,aws,azure)](https://skillicons.dev) -->
   <img src="https://komarev.com/ghpvc/?username=NahdaaJ&style=for-the-badge&color=c08585" alt="Number of Profile Views."/>
-  <img src="https://img.shields.io/badge/Portfolio-Visit-C08585?style=for-the-badge" alt="Visit Badge"/>
+  <a href="https://nahdaajawed.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-C08585?style=for-the-badge" alt="Visit Badge"/>
+  </a>
   <br />
   <a href="https://www.linkedin.com/in/nahdaa-jawed/">
     <img src="images/linkedin.png" alt="LinkedIn Badge" style="height:40px; border-radius:8px;"/>
