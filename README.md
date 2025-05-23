@@ -20,8 +20,8 @@
 
 <h2 align="center">♡ About Me ♡</h2>
 <p>
-  🌸 I'm a Mechatronics & Robotics Engineering graduate from the University of Sheffield,<br>
-  now working as a Software Engineer with a focus on growth, creativity, and clean code.<br><br>
+  🌸 I'm a Mechatronics & Robotics Engineering graduate from the University of Sheffield, 
+  now working as a Software Engineer with a focus on growth, creativity, and clean code! ♡<br><br>
 
   ♥ I’m self-taught in C#, Python, HTML, CSS, and JavaScript.
   
