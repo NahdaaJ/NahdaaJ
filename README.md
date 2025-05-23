@@ -24,11 +24,16 @@
   now working as a Software Engineer with a focus on growth, creativity, and clean code.<br><br>
 
   ♥ I’m self-taught in C#, Python, HTML, CSS, and JavaScript.
+  
   ♥ At work, I work with C#, .NET 8.0, Angular, ASP. NET Core as well as DevOps principles.
+  
   ♥ I also have experience with relational databases like MySQL and PostgreSQL, and tools like Azure DevOps and GitHub Actions.
+  
   ♥ I enjoy building practical desktop apps with WPF and SQLite or websites using HTML, CSS and JS, and I’m passionate about blending aesthetics with functionality.
+  
   ♥ Currently learning more about software architecture, clean coding practices, and full-stack development!
 
+  <br />
   🐇 Outside of tech, I love fantasy books, gaming (Akali best girl ♥), and tinkering with habit trackers or productivity tools!<br>
 </p>
 <br />
