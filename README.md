@@ -5,10 +5,10 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=NahdaaJ&style=for-the-badge&color=c08585" alt="Number of Profile Views."/>
   <a href="https://nahdaajawed.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-C08585?style=for-the-badge" alt="Coding Notes Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-C08585?style=for-the-badge" alt="Coding Notes Badge"/>
   </a>
   <a href="https://github.com/NahdaaJ/nahdaacodes" target="_blank">
-    <img src="https://img.shields.io/badge/Coding-Tutorials-C08585?style=for-the-badge" alt="Visit Badge"/>
+    <img src="https://img.shields.io/badge/Tutorials-C08585?style=for-the-badge" alt="Visit Badge"/>
   </a>
   <br />
   <a href="https://www.linkedin.com/in/nahdaa-jawed/">
@@ -30,7 +30,7 @@
 
 <div style="display:flex; justify-content:center;">
   <img align=left
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahdaaJ&layout=compact&bg_color=E5BFBF&title_color=A95F5F&text_color=000000&card_width=450" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahdaaJ&layout=compact&bg_color=E5BFBF&title_color=A95F5F&text_color=000000&card_width=470" 
     alt="Most used programming languages." 
     style="flex:1; height:150px; object-fit:cover;"
   />
