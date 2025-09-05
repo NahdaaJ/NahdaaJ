@@ -30,7 +30,7 @@
 
 <div style="display:flex; justify-content:center;">
   <img align=left
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahdaaJ&layout=compact&bg_color=E5BFBF&title_color=A95F5F&text_color=000000&card_width=470" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahdaaJ&layout=compact&bg_color=E5BFBF&title_color=A95F5F&text_color=000000&card_width=460" 
     alt="Most used programming languages." 
     style="flex:1; height:150px; object-fit:cover;"
   />
