@@ -18,7 +18,7 @@
     <img src="images/email.png" alt="Email Badge" style="height:40px;"/>
   </a>
   <a href="https://www.tiktok.com/@nahdaacodes">
-    <img src="images/linkedin.png" alt="TikTok badge" style="height:40px; border-radius:8px;"/>
+    <img src="images/tiktok.png" alt="TikTok badge" style="height:40px; border-radius:8px;"/>
   </a>
 </div>
 
@@ -30,7 +30,7 @@
 
 <div style="display:flex; justify-content:center;">
   <img align=left
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahdaaJ&layout=compact&bg_color=E5BFBF&title_color=A95F5F&text_color=000000&card_width=572" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahdaaJ&layout=compact&bg_color=E5BFBF&title_color=A95F5F&text_color=000000&card_width=500" 
     alt="Most used programming languages." 
     style="flex:1; height:150px; object-fit:cover;"
   />
