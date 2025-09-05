@@ -1,14 +1,11 @@
-<img align=left src="images/profile-gif.gif" height=350px>
-
-<div align=left>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=32&duration=3000&pause=1000&color=F7A3A3&vCenter=true&width=435&lines=Hello!+I'm+Nahdaa+%C2%B0%EF%BD%A1%E2%8B%86%CB%9A%E2%81%BA;Nice+to+meet+you!+%C2%B0%EF%BD%A1%E2%8B%86%CB%9A%E2%81%BA" alt="Typing SVG" /></a>
-  <br/>
+<div align=center>
+  <h1>⁺˚⋆｡° Hello! I'm Nahdaa °｡⋆˚⁺</h1>
+  <p>I'm a junior software engineer with a love for gaming, reading and programming! My most comfortable languages are C#, HTML, CSS and JavaScript, but I'm currently trying to expand my skill set! ♡ </p>
+  
+  <!-- [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,mysql,py,angular,ts,js,html,css,aws,azure)](https://skillicons.dev) -->
   <img src="https://komarev.com/ghpvc/?username=NahdaaJ&style=for-the-badge&color=c08585" alt="Number of Profile Views."/>
   <a href="https://nahdaajawed.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-C08585?style=for-the-badge" alt="Coding Notes Badge"/>
-  </a>
-  <a href="https://github.com/NahdaaJ/nahdaacodes" target="_blank">
-    <img src="https://img.shields.io/badge/Tutorials-C08585?style=for-the-badge" alt="Visit Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-C08585?style=for-the-badge" alt="Visit Badge"/>
   </a>
   <br />
   <a href="https://www.linkedin.com/in/nahdaa-jawed/">
@@ -17,26 +14,28 @@
   <a href="mailto:nahdaajawed@gmail.com?subject=%F0%9F%90%B0%20Reaching%20Out%20From%20Your%20GitHub&body=Just%20hopping%20by%20to%20say%20hi%20and%20get%20in%20touch!">
     <img src="images/email.png" alt="Email Badge" style="height:40px;"/>
   </a>
-  <a href="https://www.tiktok.com/@nahdaacodes">
-    <img src="images/tiktok.png" alt="TikTok badge" style="height:40px; border-radius:8px;"/>
-  </a>
 </div>
 
-<p>I'm a junior software engineer with a love for gaming, reading and coding! I also create coding-related educational content for beginners too! ♡ </p>
+<br/>
 
-`C#` `.NET 8` `Python` `HTML` `CSS` `JavaScript` `Angular` `ASP.NET Core` `CI/CD` `Agile` `AWS` `Azure ADO` `PostgreSQL` `MySQL`
+<h2 align="center">♡ About Me ♡</h2>
+<p>
+  🌸 I'm a Mechatronics & Robotics Engineering graduate from the University of Sheffield, 
+  now working as a Software Engineer with a focus on growth, creativity, and clean code! ♡<br><br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=thewildtophat&cover_image=true&theme=natemoo-re&show_offline=true&background_color=f7c5c5&interchange=true&bar_color=f0c6c6&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=thewildtophat&redirect=true)
+  ♥ I’m self-taught in C#, Python, HTML, CSS, and JavaScript.
+  
+  ♥ At work, I work with C#, .NET 8.0, Angular, ASP. NET Core as well as DevOps principles.
+  
+  ♥ I also have experience with relational databases like MySQL and PostgreSQL, and tools like Azure DevOps and GitHub Actions.
+  
+  ♥ I enjoy building practical desktop apps with WPF and SQLite or websites using HTML, CSS and JS, and I’m passionate about blending aesthetics with functionality.
+  
+  ♥ Currently learning more about software architecture, clean coding practices, and full-stack development!
 
-<div style="display:flex; justify-content:center;">
-  <img align=left
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahdaaJ&layout=compact&bg_color=E5BFBF&title_color=A95F5F&text_color=000000&card_width=460" 
-    alt="Most used programming languages." 
-    style="flex:1; height:150px; object-fit:cover;"
-  />
-  <img align=right
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NahdaaJ&theme=rose&date_format=j%20M%5B%20Y%5D" 
-    alt="GitHub streak stats." 
-    style="flex:1; height:150px; object-fit:cover;"
-  />
-</div>
+  <br />
+  🐇 Outside of tech, I love fantasy books, gaming (Akali best girl ♥), and tinkering with habit trackers or productivity tools!<br>
+</p>
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahdaaJ&layout=compact&bg_color=E5BFBF&title_color=000000&text_colour=000000&card_width=900" alt="Most used programming languages."/>
