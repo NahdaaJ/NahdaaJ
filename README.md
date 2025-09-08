@@ -5,10 +5,7 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=NahdaaJ&style=for-the-badge&color=c08585" alt="Number of Profile Views."/>
   <a href="https://nahdaajawed.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-C08585?style=for-the-badge" alt="Coding Notes Badge"/>
-  </a>
-  <a href="https://github.com/NahdaaJ/nahdaacodes" target="_blank">
-    <img src="https://img.shields.io/badge/Tutorials-C08585?style=for-the-badge" alt="Visit Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-C08585?style=for-the-badge" alt="Visit Badge"/>
   </a>
   <br />
   <a href="https://www.linkedin.com/in/nahdaa-jawed/">
@@ -17,12 +14,9 @@
   <a href="mailto:nahdaajawed@gmail.com?subject=%F0%9F%90%B0%20Reaching%20Out%20From%20Your%20GitHub&body=Just%20hopping%20by%20to%20say%20hi%20and%20get%20in%20touch!">
     <img src="images/email.png" alt="Email Badge" style="height:40px;"/>
   </a>
-  <a href="https://www.tiktok.com/@nahdaacodes">
-    <img src="images/tiktok.png" alt="TikTok badge" style="height:40px; border-radius:8px;"/>
-  </a>
 </div>
 
-<p>I'm a junior software engineer with a love for gaming, reading and coding! I also create coding-related educational content for beginners too! ♡ </p>
+<p>I'm a junior software engineer with a love for gaming, reading and coding! Currently working on <strong>BudgetBoo</strong>, a finance tracker and planner app ♡ </p>
 
 `C#` `.NET 8` `Python` `HTML` `CSS` `JavaScript` `Angular` `ASP.NET Core` `CI/CD` `Agile` `AWS` `Azure ADO` `PostgreSQL` `MySQL`
 
@@ -35,7 +29,7 @@
     style="flex:1; height:150px; object-fit:cover;"
   />
   <img align=right
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NahdaaJ&theme=rose&date_format=j%20M%5B%20Y%5D" 
+    src="https://github-readme-stats.vercel.app/api?username=NahdaaJ&show_icons=true&theme=rose&date_format=j%20M%5B%20Y%5D" 
     alt="GitHub streak stats." 
     style="flex:1; height:150px; object-fit:cover;"
   />
