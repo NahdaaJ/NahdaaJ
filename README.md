@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<p>I'm a junior software engineer with a love for gaming, reading and coding! Currently working on <strong>BudgetBoo</strong>, a finance tracker and planner app ♡ </p>
+<p>I'm a software engineer with a love for gaming, reading and coding! Currently working on <strong>BudgetBoo</strong>, a finance tracker and planner app ♡ </p>
 
 `C#` `.NET 8` `Python` `HTML` `CSS` `JavaScript` `Angular` `ASP.NET Core` `CI/CD` `Agile` `AWS` `Azure ADO` `PostgreSQL` `MySQL`
 
